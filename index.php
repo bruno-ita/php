@@ -1,6 +1,6 @@
 <?php
 
-echo "123\n";
-echo "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA";
+echo "123 \n";
+echo "\n AAAAAAAA";
 
 ?>
